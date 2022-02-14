@@ -33,8 +33,7 @@ public class Main {
         findXthBiggestNumber(input,numbersArray);
 
 
-        //File file = new File("\\C:\\\textdateiVersuch.Trial.txt");
-        //System.out.println(file);
+        
 
     }
 
